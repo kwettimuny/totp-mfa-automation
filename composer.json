@@ -1,0 +1,15 @@
+{
+    "name": "kusal/totp-mfa-automation",
+    "description": "A proof of concept to automate a login that uses TOTP MFA.",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Kusal Wettimuny"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "christian-riesen/otp": "2.x-dev"
+    }
+}
